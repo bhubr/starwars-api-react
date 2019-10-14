@@ -2,7 +2,7 @@
 
 ## The App
 
-[Demo](https://bhubr.github.io/starwars-api-react)
+[Demo](https://bhubr.github.io/starwars-api-react/)
 
 ## The API
 
