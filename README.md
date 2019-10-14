@@ -6,4 +6,4 @@
 
 ## The API
 
-https://bhubr.github.io/starwars-api-react/build/characters.json
+https://bhubr.github.io/starwars-api-react/characters.json
