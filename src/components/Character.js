@@ -13,7 +13,7 @@ function Character(props) {
         <div className="character-died">Died: n/a</div>
         <a href={githubUrl}>
           <div className="character-github">
-            <img src="../img/logo-github.svg" /> /{githubLogin}
+            <img src="img/logo-github.svg" /> /{githubLogin}
           </div>
         </a>
       </div>
